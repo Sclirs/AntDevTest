@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: e4d621514c037a44f96d65d2db4c0e5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3596416746495932977
+    second: RoadMap_1_0
+  - first:
+      213: -7276443093075972714
+    second: RoadMap_1_1
+  - first:
+      213: -2082285837280317385
+    second: RoadMap_1_2
+  - first:
+      213: -4466923252371411976
+    second: RoadMap_1_3
+  - first:
+      213: 2379508863931491995
+    second: RoadMap_1_4
+  - first:
+      213: -8047350006120592849
+    second: RoadMap_1_5
+  - first:
+      213: 3454407461039901064
+    second: RoadMap_1_6
+  - first:
+      213: 6781090688449856894
+    second: RoadMap_1_7
+  - first:
+      213: -3094165910126057021
+    second: RoadMap_1_8
+  - first:
+      213: 4272949191173083392
+    second: RoadMap_1_9
+  - first:
+      213: 906939835938818055
+    second: RoadMap_1_10
+  - first:
+      213: 849988937441529216
+    second: RoadMap_1_11
+  - first:
+      213: 2545831348041878702
+    second: RoadMap_1_12
+  - first:
+      213: 267828661814179905
+    second: RoadMap_1_13
+  - first:
+      213: 3832156281410745854
+    second: RoadMap_1_14
+  - first:
+      213: -5920053877058436445
+    second: RoadMap_1_15
+  - first:
+      213: -6554952972268001060
+    second: RoadMap_1_16
+  - first:
+      213: -3491256056775858378
+    second: RoadMap_1_17
+  - first:
+      213: 4738040858973420821
+    second: RoadMap_1_18
+  - first:
+      213: -6101428700395548863
+    second: RoadMap_1_19
+  - first:
+      213: -6834646237077320289
+    second: RoadMap_1_20
+  - first:
+      213: -5250444473200380549
+    second: RoadMap_1_21
+  - first:
+      213: -4197351788117805140
+    second: RoadMap_1_22
+  - first:
+      213: -4392472119587564
+    second: RoadMap_1_23
+  - first:
+      213: -6812151892524082681
+    second: RoadMap_1_24
+  - first:
+      213: -1655140104645508888
+    second: RoadMap_1_25
+  - first:
+      213: 396603380121062373
+    second: RoadMap_1_26
+  - first:
+      213: 2169028501490087915
+    second: RoadMap_1_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoadMap_1_0
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 9232
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc508d01606f61ec0800000000000000
+      internalID: -3596416746495932977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9240
+        width: 585
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dacd02f81e40b90800000000000000
+      internalID: -7276443093075972714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_2
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 9232
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730741c301c3a13e0800000000000000
+      internalID: -2082285837280317385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_3
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 9232
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb287ff7fc4202c0800000000000000
+      internalID: -4466923252371411976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8032
+        width: 585
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a78e54b6b50120800000000000000
+      internalID: 2379508863931491995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 8020
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac1fd5ec1125090800000000000000
+      internalID: -8047350006120592849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_6
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 8016
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8890eb8984580ff20800000000000000
+      internalID: 3454407461039901064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6929
+        width: 585
+        height: 818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7543caad064b1e50800000000000000
+      internalID: 6781090688449856894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 6908
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c920d29f705f05d0800000000000000
+      internalID: -3094165910126057021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_9
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 6904
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0011a2b76a09c4b30800000000000000
+      internalID: 4272949191173083392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5745
+        width: 585
+        height: 811
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c8c1c9f8169c00800000000000000
+      internalID: 906939835938818055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5740
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc6376f64cbcb00800000000000000
+      internalID: 849988937441529216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_12
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 5731
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac07166f1c945320800000000000000
+      internalID: 2545831348041878702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4537
+        width: 585
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483a18bfb487b300800000000000000
+      internalID: 267828661814179905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 4532
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f44595dd8e2530800000000000000
+      internalID: 3832156281410745854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_15
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 4522
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a202c65d5eb7dda0800000000000000
+      internalID: -5920053877058436445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3427
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8239850012805a0800000000000000
+      internalID: -6554952972268001060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3417
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637a1f32d119c8fc0800000000000000
+      internalID: -3491256056775858378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_18
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3412
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db56ade07e0c140800000000000000
+      internalID: 4738040858973420821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2301
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fcc8a7cee535ba0800000000000000
+      internalID: -6101428700395548863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2239
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dcb8975757621a0800000000000000
+      internalID: -6834646237077320289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_21
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2255
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b757af5d19ca227b0800000000000000
+      internalID: -5250444473200380549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1096
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca733e789c200c5c0800000000000000
+      internalID: -4197351788117805140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1090
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d40a3e11560fff0800000000000000
+      internalID: -4392472119587564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_24
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1071
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ad81232ff5671a0800000000000000
+      internalID: -6812151892524082681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e00a1918d2c709e0800000000000000
+      internalID: -1655140104645508888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_26
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc5d44ca4018500800000000000000
+      internalID: 396603380121062373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoadMap_1_27
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 585
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b30b1eefe91e10800000000000000
+      internalID: 2169028501490087915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
